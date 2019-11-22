@@ -26,12 +26,12 @@
     <mask>*Controller*php</mask>
     <mask>*config*php</mask>
     <mask>*development*.php</mask>
-    <mask>*.php</mask>
     <mask>*ControllerTest*</mask>
     <mask>*.phtml</mask>
     <mask>*config*</mask>
     <mask>*.php*</mask>
     <mask>*.ts*</mask>
     <mask>*.ts</mask>
+    <mask>*.php</mask>
   </component>
 </application>
