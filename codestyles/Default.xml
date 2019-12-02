@@ -1,4 +1,10 @@
 <code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <option name="SOFT_MARGINS" value="120" />
   <JSCodeStyleSettings version="0">
     <option name="INDENT_CHAINED_CALLS" value="false" />
@@ -7,6 +13,9 @@
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
+  </yaml>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
