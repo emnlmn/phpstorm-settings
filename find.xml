@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*config*.php" />
     <mask>*Proxy*</mask>
     <mask>*Generate*</mask>
     <mask>*config.php*</mask>
@@ -16,7 +17,6 @@
     <mask>*config*.php*</mask>
     <mask>*factory*.php</mask>
     <mask>*Test.php</mask>
-    <mask>*config*.php</mask>
     <mask>*Listener*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*Syn*.php</mask>
@@ -33,5 +33,6 @@
     <mask>*.ts*</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
+    <mask>*config*.php</mask>
   </component>
 </application>
