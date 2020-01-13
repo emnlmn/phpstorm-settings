@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*controller*.php</mask>
+    <option name="FILE_MASK" value="*Renewal*.php" />
     <mask>*config.php</mask>
     <mask>*payment*</mask>
     <mask>*factory*</mask>
@@ -37,5 +37,6 @@
     <mask>*test.ts</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*Renewal*.php</mask>
   </component>
 </application>
