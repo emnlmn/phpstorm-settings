@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*factory*</mask>
     <mask>*Factory.php</mask>
     <mask>*test.php</mask>
     <mask>*payment*controller*.php*</mask>
@@ -33,5 +32,6 @@
     <mask>*test.ts</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>docker-compose-ci.*</mask>
   </component>
 </application>
