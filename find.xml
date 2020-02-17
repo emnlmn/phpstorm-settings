@@ -28,10 +28,10 @@
     <mask>*ts</mask>
     <mask>*Renewal*.php</mask>
     <mask>Dockerfile*</mask>
-    <mask>*.ts</mask>
     <mask>*test.ts</mask>
     <mask>*.yml</mask>
     <mask>docker-compose-ci.*</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
