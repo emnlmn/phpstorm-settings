@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*test.php</mask>
+    <option name="FILE_MASK" value="*fix*" />
     <mask>*payment*controller*.php*</mask>
     <mask>*config*.php*</mask>
     <mask>*factory*.php</mask>
@@ -33,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*global*.php</mask>
+    <mask>*fix*</mask>
   </component>
 </application>
