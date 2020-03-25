@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts*" />
     <mask>*payment*controller*.php*</mask>
     <mask>*config*.php*</mask>
     <mask>*factory*.php</mask>
@@ -19,7 +20,6 @@
     <mask>*.phtml</mask>
     <mask>*config*</mask>
     <mask>*.php*</mask>
-    <mask>*.ts*</mask>
     <mask>*config*.php</mask>
     <mask>*php</mask>
     <mask>*yaml</mask>
@@ -33,5 +33,6 @@
     <mask>*.ts</mask>
     <mask>*global*.php</mask>
     <mask>*fix*</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
