@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts*" />
-    <mask>*payment*controller*.php*</mask>
+    <option name="FILE_MASK" value="*renewal*" />
     <mask>*config*.php*</mask>
     <mask>*factory*.php</mask>
     <mask>*Test.php</mask>
@@ -36,5 +35,6 @@
     <mask>*global*.php</mask>
     <mask>*fix*</mask>
     <mask>*.ts*</mask>
+    <mask>*renewal*</mask>
   </component>
 </application>
