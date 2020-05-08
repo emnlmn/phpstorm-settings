@@ -19,8 +19,8 @@
       <mapping ext="gitlab" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="clean_fixture" type="SQL" />
       <mapping pattern="deferment" type="TypeScript" />
       <mapping ext="jxs" type="TypeScript JSX" />
