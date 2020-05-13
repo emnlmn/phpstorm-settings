@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../module/CallMeBack/tests/Unit/Service/ProposalServiceDefaultTest.php'" />
-    <option name="defaultScopeName" value="File '.../module/CallMeBack/tests/Unit/Service/ProposalServiceDefaultTest.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../module/CallMeBack/tests/Unit/Service/ProposalServiceDefaultTest.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*factory*.php</mask>
     <mask>*Test.php</mask>
     <mask>*Listener*.php</mask>
