@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*factory*.php</mask>
+    <option name="FILE_MASK" value="*outbound*" />
     <mask>*Test.php</mask>
     <mask>*Listener*.php</mask>
     <mask>*Controller*.php</mask>
@@ -35,5 +35,6 @@
     <mask>*.ts*</mask>
     <mask>*controller*.php</mask>
     <mask>*.ts</mask>
+    <mask>*outbound*</mask>
   </component>
 </application>
