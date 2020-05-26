@@ -9,6 +9,7 @@
       <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
       <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="quality" type="PLAIN_TEXT" />
       <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
       <mapping pattern="job-perl" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
