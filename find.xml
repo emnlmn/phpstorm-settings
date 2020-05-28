@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*Test.php</mask>
     <mask>*Listener*.php</mask>
     <mask>*Controller*.php</mask>
@@ -25,7 +26,6 @@
     <mask>*test.ts</mask>
     <mask>*.yml</mask>
     <mask>docker-compose-ci.*</mask>
-    <mask>*.php</mask>
     <mask>*global*.php</mask>
     <mask>*fix*</mask>
     <mask>*renewal*</mask>
@@ -33,5 +33,6 @@
     <mask>*controller*.php</mask>
     <mask>*.ts</mask>
     <mask>*outbound*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
