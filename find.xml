@@ -31,7 +31,7 @@
     <mask>*controller*.php</mask>
     <mask>*.ts</mask>
     <mask>*outbound*</mask>
-    <mask>*config*.php</mask>
     <mask>*.php</mask>
+    <mask>*config*.php</mask>
   </component>
 </application>
