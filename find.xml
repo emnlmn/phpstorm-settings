@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Listener*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*Syn*.php</mask>
     <mask>*listener*</mask>
@@ -33,5 +32,6 @@
     <mask>*Test*.php</mask>
     <mask>*php</mask>
     <mask>*config*php</mask>
+    <mask>Fa</mask>
   </component>
 </application>
