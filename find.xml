@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*test*.php" />
     <mask>*Syn*.php</mask>
     <mask>*listener*</mask>
     <mask>*redis*php</mask>
@@ -31,7 +32,7 @@
     <mask>*config*php</mask>
     <mask>Fa</mask>
     <mask>*.php</mask>
-    <mask>*test*.php</mask>
     <mask>*config*.php</mask>
+    <mask>*test*.php</mask>
   </component>
 </application>
