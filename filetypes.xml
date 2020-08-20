@@ -2,28 +2,28 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="doctrine" type="PHP" />
-      <mapping pattern="renewals" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern="harbor-image-retag" type="PLAIN_TEXT" />
-      <mapping pattern="make" type="PLAIN_TEXT" />
-      <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
       <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern="quality" type="PLAIN_TEXT" />
-      <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
-      <mapping pattern="job-perl" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="harbor-image-retag" type="PLAIN_TEXT" />
+      <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
+      <mapping pattern="make" type="PLAIN_TEXT" />
+      <mapping pattern="renewals" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="job-perl" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="ogg" type="PLAIN_TEXT" />
-      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping pattern="quality" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="gitlab" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="gitlab" type="PLAIN_TEXT" />
+      <mapping ext="ogg" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="clean_fixture" type="SQL" />
       <mapping pattern="deferment" type="TypeScript" />
       <mapping ext="jxs" type="TypeScript JSX" />
