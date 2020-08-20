@@ -3,16 +3,16 @@
     <extensionMap>
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
+      <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
+      <mapping pattern="quality" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="harbor-image-retag" type="PLAIN_TEXT" />
-      <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern="renewals" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="job-perl" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="quality" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
