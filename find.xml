@@ -33,7 +33,7 @@
     <mask>*config*php</mask>
     <mask>Fa</mask>
     <mask>*.php</mask>
-    <mask>*config*.php</mask>
     <mask>*test*.php</mask>
+    <mask>*config*.php</mask>
   </component>
 </application>
