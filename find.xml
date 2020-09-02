@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller*.php" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*listener*</mask>
     <mask>*redis*php</mask>
     <mask>*Controller*php</mask>
     <mask>*development*.php</mask>
     <mask>*ControllerTest*</mask>
-    <mask>*.phtml</mask>
     <mask>*config*</mask>
     <mask>*.php*</mask>
     <mask>*yaml</mask>
@@ -30,9 +29,10 @@
     <mask>*php</mask>
     <mask>*config*php</mask>
     <mask>Fa</mask>
-    <mask>*.php</mask>
     <mask>*test*.php</mask>
     <mask>*config*.php</mask>
     <mask>*Controller*.php</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
