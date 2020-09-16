@@ -5,14 +5,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Syn*.php</mask>
-    <mask>*listener*</mask>
-    <mask>*redis*php</mask>
     <mask>*Controller*php</mask>
     <mask>*development*.php</mask>
     <mask>*ControllerTest*</mask>
-    <mask>*.phtml</mask>
-    <mask>*config*</mask>
     <mask>*.php*</mask>
     <mask>*yaml</mask>
     <mask>*ts</mask>
@@ -32,8 +27,13 @@
     <mask>*php</mask>
     <mask>*config*php</mask>
     <mask>Fa</mask>
-    <mask>*.php</mask>
     <mask>*test*.php</mask>
     <mask>*config*.php</mask>
+    <mask>*Controller*.php</mask>
+    <mask>*.php</mask>
+    <mask>*outb*.phtml</mask>
+    <mask>*.phtml</mask>
+    <mask>*.css</mask>
+    <mask>*config*</mask>
   </component>
 </application>
