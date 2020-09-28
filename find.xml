@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*development*.php</mask>
+    <option name="FILE_MASK" value="*List*" />
     <mask>*ControllerTest*</mask>
     <mask>*.php*</mask>
     <mask>*yaml</mask>
@@ -35,5 +35,6 @@
     <mask>*.css</mask>
     <mask>*config*</mask>
     <mask>*Fee*</mask>
+    <mask>*List*</mask>
   </component>
 </application>
