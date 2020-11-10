@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*yaml</mask>
+    <option name="FILE_MASK" value="*controller*" />
     <mask>*ts</mask>
     <mask>*Renewal*.php</mask>
     <mask>Dockerfile*</mask>
@@ -33,5 +33,6 @@
     <mask>*Client*</mask>
     <mask>*Controller*</mask>
     <mask>*config*</mask>
+    <mask>*controller*</mask>
   </component>
 </application>
