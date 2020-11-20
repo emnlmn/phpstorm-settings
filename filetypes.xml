@@ -8,6 +8,7 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="OrderTableRow.tsx" type="PLAIN_TEXT" />
       <mapping pattern="harbor-image-retag" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern="renewals" type="PLAIN_TEXT" />
