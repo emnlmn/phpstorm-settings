@@ -29,6 +29,7 @@
       <mapping pattern="deferment" type="TypeScript" />
       <mapping ext="jxs" type="TypeScript JSX" />
       <mapping pattern="serviceAccount" type="YAML" />
+      <mapping pattern="Order.tsx" type="yarn.lock" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
