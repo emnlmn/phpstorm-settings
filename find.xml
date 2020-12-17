@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller*.php" />
     <mask>Dockerfile*</mask>
     <mask>*test.ts</mask>
     <mask>*.yml</mask>
@@ -20,7 +21,6 @@
     <mask>Fa</mask>
     <mask>*test*.php</mask>
     <mask>*config*.php</mask>
-    <mask>*Controller*.php</mask>
     <mask>*.php</mask>
     <mask>*outb*.phtml</mask>
     <mask>*.phtml</mask>
@@ -33,5 +33,6 @@
     <mask>*listener*</mask>
     <mask>*config*</mask>
     <mask>*global*</mask>
+    <mask>*Controller*.php</mask>
   </component>
 </application>
