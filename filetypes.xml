@@ -1,21 +1,21 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
-      <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
-      <mapping pattern="quality" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
-      <mapping pattern="app-clear-cache" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="OrderTableRow.tsx" type="PLAIN_TEXT" />
       <mapping pattern="harbor-image-retag" type="PLAIN_TEXT" />
+      <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern="renewals" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="job-perl" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="quality" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="app-clear-cache" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
@@ -26,18 +26,16 @@
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="clean_fixture" type="SQL" />
       <mapping pattern="deferment" type="TypeScript" />
       <mapping ext="jxs" type="TypeScript JSX" />
       <mapping pattern="serviceAccount" type="YAML" />
       <mapping pattern="Order.tsx" type="yarn.lock" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore.global" type="Git file" />
     </extensionMap>
