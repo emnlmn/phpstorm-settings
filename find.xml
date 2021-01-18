@@ -31,7 +31,7 @@
     <mask>*listener*</mask>
     <mask>*config*</mask>
     <mask>*global*</mask>
-    <mask>*Controller*.php</mask>
     <mask>*config*.php</mask>
+    <mask>*Controller*.php</mask>
   </component>
 </application>
