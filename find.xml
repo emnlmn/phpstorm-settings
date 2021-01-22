@@ -12,7 +12,6 @@
     <mask>*renewal*</mask>
     <mask>*.ts*</mask>
     <mask>*controller*.php</mask>
-    <mask>*.ts</mask>
     <mask>*outbound*</mask>
     <mask>*Test*.php</mask>
     <mask>*php</mask>
@@ -33,5 +32,6 @@
     <mask>*global*</mask>
     <mask>*config*.php</mask>
     <mask>*Controller*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
