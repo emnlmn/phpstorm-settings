@@ -22,7 +22,6 @@
     <mask>*test*.php</mask>
     <mask>*.php</mask>
     <mask>*outb*.phtml</mask>
-    <mask>*.phtml</mask>
     <mask>*.css</mask>
     <mask>*Fee*</mask>
     <mask>*List*</mask>
@@ -35,5 +34,6 @@
     <mask>*config*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
