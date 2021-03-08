@@ -26,6 +26,7 @@
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping pattern="clean_fixture" type="SQL" />
       <mapping pattern="deferment" type="TypeScript" />
       <mapping ext="jxs" type="TypeScript JSX" />
