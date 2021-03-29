@@ -18,7 +18,6 @@
     <mask>Fa</mask>
     <mask>*test*.php</mask>
     <mask>*outb*.phtml</mask>
-    <mask>*.css</mask>
     <mask>*Fee*</mask>
     <mask>*List*</mask>
     <mask>*Client*</mask>
@@ -33,5 +32,6 @@
     <mask>*.phtml</mask>
     <mask>*.pdf</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
   </component>
 </application>
