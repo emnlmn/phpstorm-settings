@@ -20,6 +20,7 @@
       <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
