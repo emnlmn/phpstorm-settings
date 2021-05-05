@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*test.ts</mask>
+    <option name="FILE_MASK" value="*Salvataggi*" />
     <mask>*.yml</mask>
     <mask>docker-compose-ci.*</mask>
     <mask>*global*.php</mask>
@@ -33,5 +33,6 @@
     <mask>*.pdf</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
+    <mask>*Salvataggi*</mask>
   </component>
 </application>
