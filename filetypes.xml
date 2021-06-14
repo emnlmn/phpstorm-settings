@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Permission" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern="phpLbIbPD" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
