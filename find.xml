@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test*.php" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>docker-compose-ci.*</mask>
     <mask>*global*.php</mask>
     <mask>*fix*</mask>
@@ -27,12 +27,12 @@
     <mask>*config*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*.pdf</mask>
-    <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*Salvataggi*</mask>
     <mask>*.phtml</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*Test*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
