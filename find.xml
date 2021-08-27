@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.feature" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*global*.php</mask>
     <mask>*fix*</mask>
     <mask>*renewal*</mask>
@@ -32,7 +32,7 @@
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*Test*.php</mask>
-    <mask>*.php</mask>
     <mask>*.feature</mask>
+    <mask>*.php</mask>
   </component>
 </application>
