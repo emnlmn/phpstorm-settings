@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*fix*</mask>
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*renewal*</mask>
     <mask>*.ts*</mask>
     <mask>*controller*.php</mask>
@@ -33,5 +33,6 @@
     <mask>Redis.php</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
