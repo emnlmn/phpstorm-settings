@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*renewal*</mask>
     <mask>*.ts*</mask>
     <mask>*controller*.php</mask>
@@ -31,7 +32,7 @@
     <mask>*.feature</mask>
     <mask>Redis.php</mask>
     <mask>*.php</mask>
-    <mask>*.phtml</mask>
     <mask>*.yaml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
