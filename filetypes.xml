@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Permission" type="AUTO_DETECTED" />
+      <mapping pattern="env" type="AUTO_DETECTED" />
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern="job-perl" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
