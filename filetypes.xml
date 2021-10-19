@@ -5,6 +5,7 @@
       <mapping pattern="env" type="AUTO_DETECTED" />
       <mapping pattern="doctrine" type="PHP" />
       <mapping pattern="job-perl" type="PLAIN_TEXT" />
+      <mapping pattern=".values" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm-healthcheck" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -15,6 +16,7 @@
       <mapping pattern="doctrine-api" type="PLAIN_TEXT" />
       <mapping pattern=".dockereignore" type="PLAIN_TEXT" />
       <mapping pattern="app-clear-cache" type="PLAIN_TEXT" />
+      <mapping pattern=".helmignore" type="PLAIN_TEXT" />
       <mapping pattern="harbor-image-retag" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
