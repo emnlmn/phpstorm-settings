@@ -2,17 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*renewal*</mask>
-    <mask>*.ts*</mask>
-    <mask>*controller*.php</mask>
-    <mask>*outbound*</mask>
-    <mask>*php</mask>
-    <mask>*config*php</mask>
-    <mask>Fa</mask>
-    <mask>*test*.php</mask>
     <mask>*outb*.phtml</mask>
     <mask>*Fee*</mask>
     <mask>*List*</mask>
@@ -25,15 +15,23 @@
     <mask>*config*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*.pdf</mask>
-    <mask>*.css</mask>
     <mask>*Salvataggi*</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*Test*.php</mask>
     <mask>*.feature</mask>
     <mask>Redis.php</mask>
-    <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
     <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
   </component>
 </application>
