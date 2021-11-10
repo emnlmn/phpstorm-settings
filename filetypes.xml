@@ -20,6 +20,7 @@
       <mapping pattern=".helmignore" type="PLAIN_TEXT" />
       <mapping pattern="harbor-image-retag" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc.ci" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="OrderTableRow.tsx" type="PLAIN_TEXT" />
