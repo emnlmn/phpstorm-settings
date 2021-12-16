@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*config*.php" />
     <mask>*Fee*</mask>
     <mask>*List*</mask>
     <mask>*Client*</mask>
@@ -11,7 +12,6 @@
     <mask>*listener*</mask>
     <mask>*config*</mask>
     <mask>*global*</mask>
-    <mask>*config*.php</mask>
     <mask>*Controller*.php</mask>
     <mask>*.pdf</mask>
     <mask>*Salvataggi*</mask>
@@ -33,5 +33,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*config*.php</mask>
   </component>
 </application>
