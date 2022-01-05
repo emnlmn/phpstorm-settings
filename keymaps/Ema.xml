@@ -3,6 +3,12 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -28,6 +34,7 @@
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
+  <action id="FileChooser.NewFolder" />
   <action id="FindNext" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -35,6 +42,9 @@
   </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift meta alt i" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NextOccurence" />
   <action id="NextSplitter">
@@ -60,6 +70,9 @@
   </action>
   <action id="Rerun" />
   <action id="RunInspection" />
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
@@ -70,6 +83,9 @@
   <action id="SwitcherIterateItems" />
   <action id="Tool_External Tools_php-cs-fixer">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift meta w" />
