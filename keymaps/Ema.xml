@@ -1,4 +1,5 @@
 <keymap version="1" name="Ema" parent="Mac OS X 10.5+">
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
