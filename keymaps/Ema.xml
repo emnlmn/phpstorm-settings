@@ -43,6 +43,11 @@
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift meta alt i" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta h" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
