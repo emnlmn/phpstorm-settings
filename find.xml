@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Client*</mask>
     <mask>*Controller*</mask>
     <mask>*controller*</mask>
     <mask>*listener*</mask>
@@ -33,5 +32,6 @@
     <mask>*.php</mask>
     <mask>*temp*</mask>
     <mask>*salvataggio*</mask>
+    <mask>*production*</mask>
   </component>
 </application>
