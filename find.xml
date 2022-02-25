@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*controller*</mask>
     <mask>*listener*</mask>
     <mask>*config*</mask>
@@ -35,7 +36,7 @@
     <mask>*temp*</mask>
     <mask>*salvataggio*</mask>
     <mask>*production*</mask>
-    <mask>*.phtml</mask>
     <mask>*test.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
