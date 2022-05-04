@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Permission" type="AUTO_DETECTED" />
+      <mapping pattern="promo-feature-flags" type="AUTO_DETECTED" />
       <mapping pattern="EligibilityEmailSent.tsx" type="AUTO_DETECTED" />
       <mapping pattern="env" type="AUTO_DETECTED" />
       <mapping pattern="functional-tests" type="AUTO_DETECTED" />
