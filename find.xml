@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*listener*</mask>
+    <option name="FILE_MASK" value="*config.php" />
     <mask>*config*</mask>
     <mask>*global*</mask>
     <mask>*Controller*.php</mask>
@@ -37,5 +37,6 @@
     <mask>*test.php</mask>
     <mask>*.phtml</mask>
     <mask>*Comma*</mask>
+    <mask>*config.php</mask>
   </component>
 </application>
