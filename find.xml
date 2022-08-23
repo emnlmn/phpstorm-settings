@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*global*</mask>
+    <option name="FILE_MASK" value="*sms*" />
     <mask>*Controller*.php</mask>
     <mask>*.pdf</mask>
     <mask>*Salvataggi*</mask>
@@ -35,5 +35,6 @@
     <mask>*Comma*</mask>
     <mask>*config.php</mask>
     <mask>*CAll</mask>
+    <mask>*sms*</mask>
   </component>
 </application>
