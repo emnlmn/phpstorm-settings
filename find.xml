@@ -30,10 +30,10 @@
     <mask>*salvataggio*</mask>
     <mask>*production*</mask>
     <mask>*test.php</mask>
-    <mask>*.phtml</mask>
     <mask>*Comma*</mask>
     <mask>*config.php</mask>
     <mask>*CAll</mask>
     <mask>*sms*</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
