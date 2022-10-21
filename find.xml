@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*Controller*.php</mask>
     <mask>*.pdf</mask>
     <mask>*Salvataggi*</mask>
@@ -27,7 +28,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.php</mask>
     <mask>*temp*</mask>
     <mask>*salvataggio*</mask>
     <mask>*production*</mask>
@@ -37,5 +37,6 @@
     <mask>*CAll</mask>
     <mask>*sms*</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
