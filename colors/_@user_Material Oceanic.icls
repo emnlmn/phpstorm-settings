@@ -4,7 +4,7 @@
     <property name="created">2018-03-19T09:59:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.6.0.0</property>
-    <property name="modified">2022-10-28T16:46:14</property>
+    <property name="modified">2022-11-10T12:31:27</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
@@ -878,7 +878,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="33e5d" />
+        <option name="BACKGROUND" value="94e73" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
